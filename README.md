@@ -30,49 +30,6 @@ Directory (Authentication tab)
 Identity Verification
 Company Chat
 Workflow
-Step 1: Opened INC0012855 from My Queue
-
-Step 1
-
-Step 2: Reviewed the ticket
-
-Step 2
-
-Step 3: Searched for the user in the Directory
-
-Step 3a Step 3b
-
-Step 4: Checked account status on the Authentication tab
-
-Account enabled, not locked, MFA enrolled, password expired.
-
-Step 4
-
-Step 5: Started identity verification
-
-Step 5a Step 5b
-
-Step 6: Entered the code the user sent in Company Chat
-
-Step 6
-
-Step 7: Identity verified
-
-Step 7
-
-Step 8: Reset the password
-
-Step 8
-
-Step 9: Sent the temporary password via Company Chat
-
-Step 9
-
-Step 10: Confirmed the fix and closed the ticket
-
-Password expired changed from Yes to No, and the ticket showed Solution complete.
-
-Step 10
 
 Resolution Notes
 
